@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625473120025",
+    "project_id": "pbm-uas1",
+    "storage_bucket": "pbm-uas1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625473120025:android:e3f10617c1ac356ca98788",
+        "android_client_info": {
+          "package_name": "com.pbmuas1.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjnXJB2rROc_kYAy2XOAgrrERyPMfjlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
