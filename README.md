@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+untuk meng-kloning, 
+1. buka command prompt pada folder anda menyimpan project flutter Anda
+2. ketik <code>git clone https://github.com/rayy-code/drinkyees.git</code> lalu enter
+3. Buka project folder di Text Editor Anda
+4. Buka terminal dan jalankan <code>flutter pub get</code> lalu enter
+5. Jalankan Android Emulator yang Anda miliki
+6. Jalankan project flutter
